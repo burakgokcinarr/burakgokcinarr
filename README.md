@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node JS, Next.JS, Docker and Full Stack Development**
 
-- 💬 Ask me about **React Native, React, Javascript, EXPO and other things :)**
+- 💬 Ask me about **React Native, React, Javascript, EXPO/EXPO SDK, EAS, OTA and other things :)**
 
 - 📫 How to reach me **burakgokcinar@gmail.com**
 
