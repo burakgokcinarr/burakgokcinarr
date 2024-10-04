@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak Gökçınar</h1>
-<h3 align="center">Cross Platform Developer(React Native) | Full Stack Developer</h3>
+<h3 align="center">Cross Platform Developer(React Native) && Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakgokcinarr&label=Profile%20views&color=0e75b6&style=flat" alt="burakgokcinarr" /> </p>
 
