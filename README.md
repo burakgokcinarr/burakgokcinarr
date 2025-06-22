@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Burak Gökçınar</h1>
-<h3 align="center">Cross Platform Developer(React Native) && Full Stack Developer</h3>
+<h1 align="center">Hi 👋 I'm Burak Gökçınar</h1>
+<h3 align="center">Full Stack Developer | React Native Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakgokcinarr&label=Profile%20views&color=0e75b6&style=flat" alt="burakgokcinarr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakgokcinarr" alt="burakgokcinarr" /></a> </p>
 
-- 🔭 I’m currently working on [Klemsan Internet Object](https://ems.kioplatform.com/home.php) and KioMobile with React Native. I'm also doing freelance work as well as development.
+### 🚀 About Me
 
-- 🌱 I’m currently learning **Node JS, Next.JS, Prisma ORM, Docker Containerization and Full Stack Development**
-
-- 💬 Ask me about **React Native, ReactJS, Javascript, EXPO CLI/EXPO SDK, EXPO EAS, EXPO UPDATE/OTA and other things :)**
-
-- 📫 How to reach me **burakgokcinar@gmail.com**
+- 💻 Cross-platform mobile app developer focused on **React Native**  
+- 🛠️ Full stack enthusiast currently working at [Klemsan IoT Platform](https://ems.kioplatform.com/home.php)  
+- 🔧 Freelancer with a strong background in React Native ecosystem & modern web technologies  
+- 📚 Exploring **Node.js**, **Next.js**, **Prisma ORM**, **Docker** & scalable backend solutions
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
