@@ -17,6 +17,7 @@
 <a href="https://twitter.com/burakgokcinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="burakgokcinar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/burak-gokcinar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burak-gokcinar/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/burak gökçınar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="burak gökçınar" height="30" width="40" /></a>
+<a href="https://burakgokcinarr.github.io/portfolio/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" alt="burak gökçınar" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
